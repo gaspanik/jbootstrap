@@ -1,3 +1,10 @@
+# Jbootstrap
+
+Jbootstrap forked from original Bootstrap 3.  
+Modified some typesetting for Japanese users.
+
+---
+
 # [Bootstrap](http://getbootstrap.com)
 [![Bower version](https://badge.fury.io/bo/bootstrap.svg)](http://badge.fury.io/bo/bootstrap)
 [![NPM version](https://badge.fury.io/js/bootstrap.svg)](http://badge.fury.io/js/bootstrap)

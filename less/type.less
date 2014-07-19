@@ -57,13 +57,15 @@ h6, .h6 { font-size: @font-size-h6; }
 
 p {
   margin: 0 0 (@line-height-computed / 2);
+  font-size: (@font-size-base * 1.06);
+  line-height: 1.55;
 }
 
 .lead {
   margin-bottom: @line-height-computed;
   font-size: floor((@font-size-base * 1.15));
   font-weight: 300;
-  line-height: 1.4;
+  line-height: 1.2;
 
   @media (min-width: @screen-sm-min) {
     font-size: (@font-size-base * 1.5);
